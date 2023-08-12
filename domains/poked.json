@@ -1,11 +1,10 @@
 {
     "description": "poked.is-a.dev",
-    "repo": "https://github.com/PokedArmory/PokedArmory.github.io",
+    "repo": "https://github.com/PokedWasTaken/poked.github.io",
     "owner": {
-        "username": "PokedArmory",
+        "username": "PokedWasTaken",
         "email": "poked.armory@gmail.com",
-        "discord": "Poked_Armory#0001",
-        "twitter": "PokedWasTaken"
+        "discord": "poked"
     },
     "record": {
         "CNAME": "PokedArmory.github.io"
